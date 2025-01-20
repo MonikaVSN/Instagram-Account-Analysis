@@ -49,10 +49,10 @@ Learning how algorithm changes affect engagement and reach.
 📊Post unboxings, gadget reviews, or behind-the-scenes setups for your tech gear. Encourage authenticity by sharing challenges or "lessons learned" in tech, which builds trust.
 
 
-## Tools Used
-🛠️MySQl : For writing queries
+## 🛠️ Tools Used
+MySQl : For writing queries
 
-🛠️Power Bi : for data visualization
+Power Bi : for data visualization
 
-🛠️Microsoft PowerPoint: For presentation creation.
+Microsoft PowerPoint: For presentation Insights.
 
