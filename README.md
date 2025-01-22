@@ -12,6 +12,9 @@ This project is part of a virtual internship with AtliQ Technologies.
 
 📈🚀Propose actionable strategies to improve engagement, reach, and overall effectiveness.
 
+<img width="973" alt="Screenshot 2025-01-23 011108" src="https://github.com/user-attachments/assets/2042f3f1-401f-474f-8bc5-43eb753348df" />
+
+
 ## key Learnings
 
 Learning how algorithm changes affect engagement and reach.
