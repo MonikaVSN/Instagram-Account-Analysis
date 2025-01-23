@@ -27,6 +27,9 @@ Learning how algorithm changes affect engagement and reach.
 
 📈📉Improving content strategy based on data-driven insights.
 
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/aac85490-397a-4b72-8564-044747f8faf0" />
+
+
 ## Key Insights
 ### Content Performance:
 💡Reels dominate impressions, contributing 61.63% of the total reach.
@@ -40,6 +43,8 @@ Learning how algorithm changes affect engagement and reach.
  📊Peak engagement occurs in Q2, driven by Tech Tips and mobile-related content.
 
  📊January to March showed lower activity and slower growth.
+
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/af97a7ab-cdde-43b3-b6a6-6c75b74a8a14" />
 
 ## Recommendations
 
